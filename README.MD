@@ -5,6 +5,8 @@
 riftbuild
 ```
 
+Once built, Doodle Jump will launched automatically!
+
 ---
 
 ### Everyone jump!
