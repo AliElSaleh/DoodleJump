@@ -5,6 +5,8 @@
 riftbuild
 ```
 
+---
+
 ### Everyone jump!
 
 Welcome! Start your gateway to endless jumping fun! This is a delightful and addictive arcade game that puts you in control of a bouncy character on a mission to reach new heights. Inspired by the timeless classic Doodle Jump, this game brings back the nostalgia of simple yet captivating gameplay.
