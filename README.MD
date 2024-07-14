@@ -5,7 +5,7 @@ From the project root directory, run:
 ```make
 riftbuild
 ```
-Once built, Doodle Jump will be launched automatically!
+Doodle Jump will launch automatically after the build is complete
 
 ---
 
