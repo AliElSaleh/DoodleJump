@@ -1,11 +1,11 @@
 # A Classic Doodle Jump 2D Clone
 
 # Building
+From the project root directory, run:
 ```make
 riftbuild
 ```
-
-Once built, Doodle Jump will launched automatically!
+Once built, Doodle Jump will be launched automatically!
 
 ---
 
